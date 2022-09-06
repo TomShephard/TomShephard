@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomShephard
 - 👀 I’m interested in videogames
-- 🌱 I’m currently learning Computer Science at The University of Nottingham
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - tomy.shephard@gmail.com
 
